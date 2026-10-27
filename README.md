@@ -4,5 +4,6 @@ Hi! Here is my repository for some of the [OverTheWire](https://overthewire.org/
 
 I strongly recommend giving them a go yourself as it is very fun and satisfying once you learn/get how to solve the challenges - I hope you enjoy :)
 
+> [Leviathan](./Leviathan/Leviathan.pdf): Reverse engineering\
 > [Narnia](./Narnia/Narnia.md): Binary exploitation/Memory corruption\
 > [Natas](./Natas/Natas.pdf): Web security 
